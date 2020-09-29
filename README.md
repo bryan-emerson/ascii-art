@@ -72,7 +72,7 @@ Draw a square using a for-loop. You may build a 10x10 square to start, but you a
 ```
 
 ### Part II: ASCII Art Triangle
-**The requirement for PartII is to print two triangles, that match the following pattern below!**
+**The requirement for Part II is to print two triangles, that match the following pattern below!**
 ```
 🔼
 🔼🔼
@@ -133,7 +133,7 @@ console.log(buildMeUpString);
 ```
 
 ### Part III: ASCII Art Pyramid
-**The requirement for Part III is to print out a pyramid and a reverse pyramid, such as the two examples below: 
+**The requirement for Part III is to print out a pyramid and a reverse pyramid, such as the two examples below:**
 ```
      ^
     ^^^
